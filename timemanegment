@@ -1,1 +1,47 @@
+<!DOCTYPE html>
+
+<htmnl>
+
+        <head>
+            <meta charset="UTF-8">
+            <h2>What is important to be a cook</h2>
+           <title> What is important to be a cook</title>
+           <link rel="stylesheet" href="style.css">
+        </head>
+
+            <body>
+
+                
+                 <nav>
+                        <a href="problemsolving.html">problem solving</a>
+                        <a href="timemanagement.html">time management</a>
+                        <a href="index.html">index.html</a>
+                </nav>
+
+                
+
+
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUTMjrRTVpBTYihgNBFsI7PNfLlGP9Oc0NzH2DPStNO9glLy9xzqqSucn9&s=10" alt="A chef showing creativity" class="chef">
+
+                <p>
+                    <h2>You need time management skills to be a good cook</h2>
+                    <OL>
+                        <li>In some dishes some need more time than others</li>
+                        <li>Also, time management is crucial for ensuring that all dishes are prepared efficiently and served at the right time.</li>
+                        <li>Need to prioritize tasks and allocate time effectively</li>
+                        <li>Manage multiple orders simultaneously</li>
+                        <li>Plan ahead and prepare for busy periods</li>                     
+                        
+                    </OL>
+
+
+
+                </p>
+
+
+
+
+
+
+            </body>
 
