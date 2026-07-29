@@ -8,3 +8,104 @@ body{
     background-color: burlywood;
 
 }
+
+
+/* General page */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    color: #333;
+    text-align: center;
+}
+
+/* Headings */
+h1, h2 {
+    color: #2c3e50;
+}
+
+/* Navigation Bar */
+nav {
+    background-color: #2c3e50;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+    box-shadow: 0 3px 8px rgba(0,0,0,0.2);
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    padding: 10px 18px;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+nav a:hover {
+    background-color: #3498db;
+    transform: translateY(-2px);
+}
+
+/* Container */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    gap: 30px;
+    margin: 40px;
+    flex-wrap: wrap;
+}
+
+/* Chef image */
+.chef {
+    width: 300px;
+    border-radius: 12px;
+    box-shadow: 0 5px 12px rgba(0,0,0,0.3);
+}
+
+/* Table */
+table {
+    border-collapse: collapse;
+    width: 500px;
+    background: white;
+    box-shadow: 0 5px 12px rgba(0,0,0,0.2);
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+th {
+    background-color: #3498db;
+    color: white;
+    padding: 15px;
+    font-size: 18px;
+}
+
+td {
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+tr:nth-child(even) {
+    background-color: #f8f8f8;
+}
+
+tr:hover {
+    background-color: #eaf6ff;
+    transition: 0.3s;
+}
+
+/* List */
+ol {
+    width: 80%;
+    max-width: 800px;
+    margin: 30px auto;
+    text-align: left;
+    line-height: 1.8;
+    background: white;
+    padding: 25px;
+    border-radius: 10px;
+    box-shadow: 0 5px 12px rgba(0,0,0,0.2);
+}
